@@ -1,1 +1,2 @@
-# earthly_artistry
+# djulia
+Landing page Djulia
